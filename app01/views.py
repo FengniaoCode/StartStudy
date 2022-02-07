@@ -5,4 +5,4 @@ from django.shortcuts import render
 # Create your views here.
 
 def xxx(request):
-    return HttpResponse("欢迎使用")
+    return HttpResponse("欢迎使用12344")
